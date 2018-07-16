@@ -41,3 +41,28 @@ Segmentation code:
 
 github.com/mapbox/robosat
 
+
+SciPy Tools
+-----------
+
+`PyViz` makes various graphic packages play nice.
+
+
+Reproducable Data with Reproducable Results
+-------------------------------------------
+
+`pulp` to package your code so it includes all dependencies. Hel
+
+
+Lightning Talks
+---------------
+
+* To go from academia to industry: find target field where you can do what you really like, network, invest time in a pet projects, and interview early so you know what skills you need to develop.
+
+
+* `splot` - lightweight plotting for geospatial analysis in PySAL. Visualizations in Jupyter. github.com/pysal/splot
+
+
+
+
+
